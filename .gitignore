@@ -1,0 +1,26 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# 🐍 Python cache files
+__pycache__/
+*.py[cod]
+
+# 🧪 Virtual environment
+venv/
+.env/
+
+# 🧠 Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# 🪣 Data files
+*.csv
+*.xlsx
+
+# 🧰 VS Code settings
+.vscode/
+*.code-workspace
+
+# 🧾 Logs
+*.log
+
+# ⚙️ OS files
+.DS_Store
+Thumbs.db
